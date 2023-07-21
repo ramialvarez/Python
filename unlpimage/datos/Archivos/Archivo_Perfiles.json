@@ -1,0 +1,62 @@
+{
+    "Messi": {
+        "Nick": "Messi",
+        "Nombre": "Lionel Andre Messi Cuccittini",
+        "Edad": "35",
+        "F": false,
+        "M": true,
+        "O": false,
+        "autogenero": "Masculino",
+        "-NUEVO_PERFIL-RUTA_AVATAR-": "leo+kuni.png"
+    },
+    "Dibu": {
+        "Nick": "Dibu",
+        "Nombre": "Emiliano Martinez",
+        "Edad": "31",
+        "F": false,
+        "M": true,
+        "O": false,
+        "autogenero": "Masculino",
+        "-NUEVO_PERFIL-RUTA_AVATAR-": "dibu.png"
+    },
+    "Di Maria": {
+        "Nick": "Di Maria",
+        "Nombre": "Angel Fabian Di Maria",
+        "Edad": "35",
+        "F": false,
+        "M": false,
+        "O": true,
+        "autogenero": "No binario",
+        "-NUEVO_PERFIL-RUTA_AVATAR-": "dima.png"
+    },
+    "Montiel": {
+        "Nick": "Montiel",
+        "Nombre": "Gonzalo Ariel Montiel",
+        "Edad": "26",
+        "F": false,
+        "M": true,
+        "O": false,
+        "autogenero": "Masculino",
+        "-NUEVO_PERFIL-RUTA_AVATAR-": "Montiel.png"
+    },
+    "De Paul": {
+        "Nick": "De Paul",
+        "Nombre": "Rodrigo Javier De Paul",
+        "Edad": "29",
+        "F": false,
+        "M": true,
+        "O": false,
+        "autogenero": "Masculino",
+        "-NUEVO_PERFIL-RUTA_AVATAR-": "depaul.png"
+    },
+    "Estefi": {
+        "Nick": "Estefi",
+        "Nombre": "Rodrigo Javier De Paul",
+        "Edad": "32",
+        "F": true,
+        "M": false,
+        "O": false,
+        "autogenero": "Femenino",
+        "-NUEVO_PERFIL-RUTA_AVATAR-": "est.png"
+    }
+}

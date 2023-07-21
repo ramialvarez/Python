@@ -1,0 +1,218 @@
+[
+    {
+        "image": "eso_no_eso_si_meme.png",
+        "name": "Eso si, eso no (2 text boxes)",
+        "text_boxes": [
+            {
+                "top_left_x": 222,
+                "top_left_y": 12,
+                "bottom_right_x": 389,
+                "bottom_right_y": 146
+            },
+            {
+                "top_left_x": 223,
+                "top_left_y": 187,
+                "bottom_right_x": 390,
+                "bottom_right_y": 345
+            }
+        ]
+    },
+    {
+        "image": "novio_distraido.jpg",
+        "name": "Novio distraido por otra cosa (3 text boxes)",
+        "text_boxes": [
+            {
+                "top_left_x": 270,
+                "top_left_y": 173,
+                "bottom_right_x": 335,
+                "bottom_right_y": 231
+            },
+            {
+                "top_left_x": 92,
+                "top_left_y": 217,
+                "bottom_right_x": 179,
+                "bottom_right_y": 267
+            },
+            {
+                "top_left_x": 386,
+                "top_left_y": 179,
+                "bottom_right_x": 430,
+                "bottom_right_y": 237
+            }
+        ]
+    },
+    {
+        "image": "quiero_no_puedo_meme.png",
+        "name": "Quiero algo, pero no puedo (2 text boxes)",
+        "text_boxes": [
+            {
+                "top_left_x": 181,
+                "top_left_y": 50,
+                "bottom_right_x": 259,
+                "bottom_right_y": 125
+            },
+            {
+                "top_left_x": 16,
+                "top_left_y": 285,
+                "bottom_right_x": 62,
+                "bottom_right_y": 323
+            }
+        ]
+    },
+    {
+        "image": "auto_se_desvia.jpg",
+        "name": "Auto se desvia por otra opcion (3 text boxes)",
+        "text_boxes": [
+            {
+                "top_left_x": 99,
+                "top_left_y": 60,
+                "bottom_right_x": 147,
+                "bottom_right_y": 115
+            },
+            {
+                "top_left_x": 205,
+                "top_left_y": 54,
+                "bottom_right_x": 284,
+                "bottom_right_y": 117
+            },
+            {
+                "top_left_x": 139,
+                "top_left_y": 312,
+                "bottom_right_x": 269,
+                "bottom_right_y": 346
+            }
+        ]
+    },
+    {
+        "image": "batman_bofetada.jpg",
+        "name": "Batman dando bofetada (2 text boxes)",
+        "text_boxes": [
+            {
+                "top_left_x": 24,
+                "top_left_y": 5,
+                "bottom_right_x": 162,
+                "bottom_right_y": 67
+            },
+            {
+                "top_left_x": 234,
+                "top_left_y": 7,
+                "bottom_right_x": 376,
+                "bottom_right_y": 72
+            }
+        ]
+    },
+    {
+        "image": "nena_incendio.jpg",
+        "name": "Nena viendo el incendio (2 text boxes)",
+        "text_boxes": [
+            {
+                "top_left_x": 66,
+                "top_left_y": 123,
+                "bottom_right_x": 200,
+                "bottom_right_y": 193
+            },
+            {
+                "top_left_x": 360,
+                "top_left_y": 122,
+                "bottom_right_x": 466,
+                "bottom_right_y": 205
+            }
+        ]
+    },
+    {
+        "image": "mujer_gato.jpg",
+        "name": "Mujer gritando a gato (2 text boxes)",
+        "text_boxes": [
+            {
+                "top_left_x": 16,
+                "top_left_y": 9,
+                "bottom_right_x": 215,
+                "bottom_right_y": 54
+            },
+            {
+                "top_left_x": 254,
+                "top_left_y": 13,
+                "bottom_right_x": 449,
+                "bottom_right_y": 55
+            }
+        ]
+    },
+    {
+        "image": "perro_meme.png",
+        "name": "Perro fuerte vs Perro debil (4 text boxes)",
+        "text_boxes": [
+            {
+                "top_left_x": 43,
+                "top_left_y": 12,
+                "bottom_right_x": 166,
+                "bottom_right_y": 42
+            },
+            {
+                "top_left_x": 316,
+                "top_left_y": 17,
+                "bottom_right_x": 426,
+                "bottom_right_y": 56
+            },
+            {
+                "top_left_x": 31,
+                "top_left_y": 271,
+                "bottom_right_x": 183,
+                "bottom_right_y": 326
+            },
+            {
+                "top_left_x": 299,
+                "top_left_y": 267,
+                "bottom_right_x": 447,
+                "bottom_right_y": 338
+            }
+        ]
+    },
+    {
+        "image": "plan_gru.jpg",
+        "name": "El plan de Gru (4 text boxes)",
+        "text_boxes": [
+            {
+                "top_left_x": 150,
+                "top_left_y": 46,
+                "bottom_right_x": 222,
+                "bottom_right_y": 140
+            },
+            {
+                "top_left_x": 394,
+                "top_left_y": 46,
+                "bottom_right_x": 468,
+                "bottom_right_y": 144
+            },
+            {
+                "top_left_x": 149,
+                "top_left_y": 206,
+                "bottom_right_x": 230,
+                "bottom_right_y": 300
+            },
+            {
+                "top_left_x": 392,
+                "top_left_y": 203,
+                "bottom_right_x": 475,
+                "bottom_right_y": 299
+            }
+        ]
+    },
+    {
+        "image": "uno_cartas.jpg",
+        "name": "Levantar 25 cartas (2 text boxes)",
+        "text_boxes": [
+            {
+                "top_left_x": 115,
+                "top_left_y": 143,
+                "bottom_right_x": 197,
+                "bottom_right_y": 248
+            },
+            {
+                "top_left_x": 283,
+                "top_left_y": 25,
+                "bottom_right_x": 434,
+                "bottom_right_y": 65
+            }
+        ]
+    }
+]

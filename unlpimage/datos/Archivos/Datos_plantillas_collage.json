@@ -1,0 +1,56 @@
+{
+    "2fotos.png" : {
+        "lista_posiciones" : [
+            [0, 0],
+            [0, 200]
+        ],
+        "lista_tamanios" : [
+            [400, 200], 
+            [400, 200]
+        ],
+        "lista_imagenes" : [" ", " "]
+    },
+    "3fotos.png" : {
+        "lista_posiciones" : [
+            [0, 0],
+            [0, 200],
+            [200, 200]
+        ],
+        "lista_tamanios" : [
+            [400, 200], 
+            [200, 200],
+            [200, 200]
+        ],
+        "lista_imagenes" : [" ", " ", " "]
+    },
+    "4arriba.png" : {
+        "lista_posiciones" : [
+            [0, 0],
+            [133, 0],
+            [266, 0], 
+            [0, 133]
+        ],
+        "lista_tamanios" : [
+            [133, 133], 
+            [133, 133],
+            [133, 133],
+            [400, 267]
+        ],
+        "lista_imagenes" : [" ", " ", " ", " "]
+    },
+    "4fotos.png" : {
+        "lista_posiciones" : [
+            [0, 0],
+            [0, 200],
+            [200, 0],
+            [200, 200]
+        ],
+        "lista_tamanios" : [
+            [200, 200], 
+            [200, 200],
+            [200, 200], 
+            [200, 200]
+        ],
+        "lista_imagenes" : [" ", " ", " ", " "]
+    }
+}
